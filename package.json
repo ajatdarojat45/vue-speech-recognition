@@ -1,12 +1,13 @@
 {
-  "name": "vue-speech",
+  "name": "vue-speech-recognition",
   "author": "Matteo Gabriele <m.gabriele.dev@gmail.com>",
+  "contributors": ["nathan Owen <nathan.owen@live.com"],
   "version": "0.1.0",
   "description": "Web Speech Api for Vue",
   "bugs": {
-    "url": "https://github.com/matteogabriele/vue-speech/issues"
+    "url": "https://github.com/nathan-owen/vue-speech-recognition/issues"
   },
-  "repository": "https://github.com/matteogabriele/vue-speech",
+  "repository": "https://github.com/nathan-owen/vue-speech-recognition",
   "scripts": {
     "dev": "node ./config/scripts/dev.js",
     "build": "node ./config/scripts/build.js",
