@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'vue-speech',
+  name: 'vue-speech-recognition',
 
   props: {
     lang: {
