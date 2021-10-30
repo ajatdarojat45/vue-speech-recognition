@@ -48,9 +48,7 @@ Vue.use(VueSpeech);
 ```html
 <vue-speech isListen="false" />
 
-<!-- isListen props is Boolean. When you set it with true value voice recog will listen what you say. 
-
-And when you want to turn off it you can set it with false value. -->
+<!-- isListen props is Boolean. When you set it with true value voice recog will listen what you say. And when you want to turn off it you can set it with false value. -->
 ```
 
 ### Return speech data
