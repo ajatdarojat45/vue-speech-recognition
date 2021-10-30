@@ -48,6 +48,12 @@ export default {
 <vue-speech lang="it-IT" />
 ```
 
+### Listen Control
+
+```html
+<vue-speech isListen="false" />
+```
+
 ### Return speech data
 ```html
 <template>
