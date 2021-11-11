@@ -1,4 +1,4 @@
-# vue-speech
+# vue-speech-recog
 
 Interact with the new Web Speech Recognition Api.
 
@@ -11,12 +11,12 @@ Interact with the new Web Speech Recognition Api.
 ## Install
 
 ```bash
-npm install vue-speech
+npm install vue-speech-recog
 ```
 
 ```js
 import Vue from "vue";
-import VueSpeech from "vue-speech";
+import VueSpeech from "vue-speech-recog";
 
 Vue.use(VueSpeech);
 ```
@@ -47,9 +47,10 @@ Vue.use(VueSpeech);
 
 ```html
 <vue-speech isListen="false" />
-
-<!-- isListen props is Boolean. When you set it with true value voice recog will listen what you say. And when you want to turn off it you can set it with false value. -->
 ```
+
+> isListen props is Boolean. When you set true vue-speech will listen what you say.  
+If you want to turn off vue-speech you can set it false. 
 
 ### Return speech data
 
@@ -74,6 +75,6 @@ Vue.use(VueSpeech);
 
 # Issues and features requests
 
-Please drop an issue, if you find something that doesn't work, or a feature request at [https://github.com/MatteoGabriele/vue-speech/issues](https://github.com/MatteoGabriele/vue-speech/issues)
+Please drop an issue, if you find something that doesn't work, or a feature request at [https://github.com/ajatdarojat45/vue-speech-recognition/issues](https://github.com/ajatdarojat45/vue-speech-recognition/issues)
 
-Follow me on twitter [@matteo_gabriele](https://twitter.com/matteo_gabriele)
+Follow me on twitter [@ajatdarojat45](https://twitter.com/ajatdarojat45)
