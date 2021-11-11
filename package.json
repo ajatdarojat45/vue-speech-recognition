@@ -4,7 +4,7 @@
 	"contributors": [
 		"Ajat Darojat <ajatdarojat45@live.com"
 	],
-	"version": "0.3.1",
+	"version": "0.3.4",
 	"description": "Web Speech Api for Vue",
 	"bugs": {
 		"url": "https://github.com/ajatdarojat45/vue-speech-recognition/issues"
